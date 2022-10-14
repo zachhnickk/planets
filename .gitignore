@@ -1,2 +1,4 @@
 *.dat
-results/
+/results
+log_*.txt
+createlogs.*
